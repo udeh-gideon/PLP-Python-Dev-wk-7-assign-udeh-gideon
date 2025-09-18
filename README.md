@@ -69,7 +69,7 @@ We created 4 types of plots:
 - Bar Chart (Average Scores by Grade)
 ![Bar Chart](./images/average-total-score-by-grade.png)
 
-Histogram Plot (Weekly Self Study Hour Distribution)
+- Histogram Plot (Weekly Self Study Hour Distribution)
 ![Histogram](./images/weekly-study-hour-distibution-chart.png)
 
 ---
@@ -98,5 +98,5 @@ jupyter notebook student-performance-data-analysis.ipynb
 
 - Dataset: Kaggle Student Performance Dataset
 - Libraries: pandas, matplotlib, seaborn
--My amazing Coding Buddy, ChatGPT for the immense code debugging assistance.
+- My amazing Coding Buddy, ChatGPT for the immense code debugging assistance.
 - My Wonderful instructors at the PLP Python Dev Module
